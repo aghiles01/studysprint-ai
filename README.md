@@ -31,14 +31,14 @@ Puis ouvrir `http://localhost:8000`
 ### Option 2 - extension Live Server
 Ouvrir le dossier dans VS Code puis lancer Live Server.
 
-## Déploiement Vercel
+## Déploiement 
 1. Importer ce dossier dans un projet Vercel.
 2. Sélectionner le preset **Other / Static Site** si demandé.
 3. Déployer.
 4. Remplacer ensuite le placeholder du lien public dans le pitch deck et dans cette section.
 
-### Lien Vercel
-`A RENSEIGNER APRES DEPLOIEMENT`
+### Lien Public
+https://aghiles01.github.io/studysprint-ai/
 
 ## Structure du projet
 - `index.html` : interface principale
