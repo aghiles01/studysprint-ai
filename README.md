@@ -60,4 +60,4 @@ L'idée a été affinée avec des prompts structurés pour :
 - **Lovable.dev** : non utilisé dans cette version.
 
 ## Répartition des tâches
-Projet prévu pour un rendu individuel, mais facilement adaptable en binôme.
+Projet réalisé individuellement.
